@@ -13,7 +13,7 @@ Untuk menjalankan Aplikasi ini pada Komputer atau Laptop kalian gunakan langkah-
 Terdapat dua tipe User yaitu Admin dan User (pembeli)
 
 ### 1. user
-- username: jond
+- username: johnd
 - password: m38rmF$
 
 ### 2. admin
