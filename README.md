@@ -4,7 +4,7 @@ TokoKita adalah sebuah platform digital di mana pengguna dapat membeli dan menju
 
 ## Installation
 Untuk menjalankan Aplikasi ini pada Komputer atau Laptop kalian gunakan langkah-langkah berikut:
-1. Clone repository berikut : 'https://github.com/DimasKA11/Capstone-Vocasia-FE-1-Kelompok-5'
+1. Clone repository berikut : 'https://github.com/DimasKA11/Vocasia-FE1-KEL5'
 2. buka repository yang sudah di download
 3. Install dependensi: `npm install`
 4. jalankan Aplikasnya : `npm start`
